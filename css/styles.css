@@ -2,7 +2,7 @@ body {
   margin: 20px;
   text-align: center;
   font-family: inherit;
-  color:#cf3030;
+  color:#f05a28;
   background-image: url(https://ak3.picdn.net/shutterstock/videos/17191843/thumb/1.jpg)
 }
 
@@ -15,6 +15,10 @@ h1 {
 h2 {
   font-family: 'Oswald', sans-serif;
   color: #1c819e;
+}
+h3{
+  font-family: sans-serif;
+  color: #dfdfdf;
 }
 
 .top-container {}
