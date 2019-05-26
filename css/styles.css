@@ -2,19 +2,19 @@ body {
   margin: 20px;
   text-align: center;
   font-family: inherit;
-  color: #ff4057;
-  background-image: url(http://papers.co/wallpaper/papers.co-md12-wallpaper-galaxy-eye-center-gren-space-stars-36-3840x2400-4k-wallpaper.jpg)
+  color:#cf3030;
+  background-image: url(https://ak3.picdn.net/shutterstock/videos/17191843/thumb/1.jpg)
 }
 
 h1 {
   margin-top: 0;
   font-family: 'Oswald', sans-serif;
-  color: #900048;
+  color: #3426a4;
 }
 
 h2 {
   font-family: 'Oswald', sans-serif;
-  color: #900048;
+  color: #1c819e;
 }
 
 .top-container {}
