@@ -1,0 +1,39 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Macondo Swash Caps', cursive;
+  background-image: url(https://cbsnews1.cbsistatic.com/hub/i/2016/01/20/2904a1ed-3b67-484e-9fe8-2d7a1b755280/istock000061557686medium.jpg);
+  color: red;
+}
+
+h1{
+  margin-top: 0;
+  font-family: 'Oswald', sans-serif;
+  color: red;
+}
+h2{
+  font-family: 'Oswald', sans-serif;
+  color: red;
+}
+.top-container {
+
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+}
+  a:link {
+    color: #226597;
+  }
+
+  a:visited {
+    color: white;
+  }
+
+  a:hover {
+    color: red;
+  }
