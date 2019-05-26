@@ -1,10 +1,10 @@
 
 body{
-  margin: 0;
+  margin: auto;
   text-align: center;
-  font-family: 'Macondo Swash Caps', cursive;
-  background-image: url(https://cbsnews1.cbsistatic.com/hub/i/2016/01/20/2904a1ed-3b67-484e-9fe8-2d7a1b755280/istock000061557686medium.jpg);
-  color: red;
+  font-family:inherit;
+
+  color: orange;
 }
 
 h1{
