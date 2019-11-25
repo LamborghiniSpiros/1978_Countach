@@ -2,8 +2,8 @@ body {
   margin: 20px;
   text-align: center;
   font-family: inherit;
-  color:#0d0cb5;
-  background-image: url(https://ak3.picdn.net/shutterstock/videos/17191843/thumb/1.jpg)
+  color:gold;
+  background-image: url(https://ak3.picdn.net/shutterstock/videos/17191843/thumb/1.jpg);
 }
 
 h1 {
@@ -19,7 +19,7 @@ h2 {
 }
 h3 {
   font-family: 'Oswald', sans-serif;
-  color: #ff0000;
+  color: gold;
 }
 p {
   font-family: 'Oswald', sans-serif;
@@ -67,16 +67,15 @@ hr {
   }
   .waterpolo-1-img {
     width: 25%;
-    float: left;
     padding-right: 10px;
   }
   .waterpolo-2-img {
     width: 27%;
-    float: right;
-    padding-left: 10px;
+    padding-right: 10px;
+
 
 a:link {
-  color: #226597;
+  color: gold;
 }
 
 a:visited {
