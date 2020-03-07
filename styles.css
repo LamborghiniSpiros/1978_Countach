@@ -14,7 +14,7 @@ h1 {
 
 h2 {
   font-family: 'Oswald', sans-serif;
-  color: #c10000;
+  color: white;
   padding-bottom: 10px;
 }
 h3 {
@@ -26,7 +26,7 @@ p {
   color: inherit;
 }
 hr {
-  border: dotted #EAF6F6 6px;
+  border: dotted gold 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
