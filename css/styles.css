@@ -2,7 +2,7 @@ body {
   margin: 20px;
   text-align: center;
   font-family: inherit;
-  color: maroon;
+  color: gold;
   background-image: url(https://ak3.picdn.net/shutterstock/videos/17191843/thumb/1.jpg);
 }
 
@@ -14,19 +14,19 @@ h1 {
 
 h2 {
   font-family: 'Oswald', sans-serif;
-  color: #c10000;
+  color: white;
   padding-bottom: 10px;
 }
 h3 {
   font-family: 'Oswald', sans-serif;
-  color: #bbded6;
+  color: red;
 }
 p {
   font-family: 'Oswald', sans-serif;
   color: inherit;
 }
 hr {
-  border: dotted maroon 6px;
+  border: dotted gold 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -72,7 +72,7 @@ hr {
   .waterpolo-2-img {
     width: 27%;
     padding-right: 10px;
-
+  }
 
 a:link {
   color: red;
