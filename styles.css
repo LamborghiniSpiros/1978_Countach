@@ -2,7 +2,7 @@ body {
   margin: 20px;
   text-align: center;
   font-family: inherit;
-  color: gold;
+  color:gold;
   background-image: url(https://ak3.picdn.net/shutterstock/videos/17191843/thumb/1.jpg);
 }
 
@@ -14,19 +14,19 @@ h1 {
 
 h2 {
   font-family: 'Oswald', sans-serif;
-  color: gold;
+  color: white;
   padding-bottom: 10px;
 }
 h3 {
   font-family: 'Oswald', sans-serif;
-  color: #bbded6;
+  color: gold;
 }
 p {
   font-family: 'Oswald', sans-serif;
   color: inherit;
 }
 hr {
-  border: dotted blue 6px;
+  border: dotted gold 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -75,7 +75,7 @@ hr {
 
 
 a:link {
-  color: red;
+  color: gold;
 }
 
 a:visited {
@@ -83,5 +83,5 @@ a:visited {
 }
 
 a:hover {
-  color: blue;
+  color: red;
 }
