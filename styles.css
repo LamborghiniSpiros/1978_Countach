@@ -65,8 +65,6 @@ hr {
   width: 30%;
   margin: auto;
 }
-.bottom-container {
-}
 .btn {
 	box-shadow:inset 0px 0px 15px 3px #23395e;
 	background:linear-gradient(to bottom, #5d91e3 5%, #415989 100%);
@@ -128,6 +126,12 @@ hr {
   width: 17%;
   padding-right: 10px;
 }
+.footer-link {
+  font-weight: 550;
+  font-size: 0.8rem;
+  margin: 11px;
+}
+
 .copyright {
   font-size: 8px;
 }
