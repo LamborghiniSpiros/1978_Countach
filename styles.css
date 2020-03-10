@@ -1,32 +1,38 @@
 body {
+  color:#bbe1fa;
   margin: 20px;
   text-align: center;
-  font-family: inherit;
-  color:gold;
+  font-family: 'Macondo', serif;
+
   background-image: url(https://ak3.picdn.net/shutterstock/videos/17191843/thumb/1.jpg);
 }
 
 h1 {
-  margin-top: 0;
+  color: #0f4c75;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
   font-family: 'Oswald', sans-serif;
-  color: blue;
+
 }
 
 h2 {
+  color: #edf7fa;
   font-family: 'Oswald', sans-serif;
-  color: white;
+  font-size: 2.5rem;
+  font-weight: normal;
   padding-bottom: 10px;
 }
 h3 {
+  color:#3282b8;
   font-family: 'Oswald', sans-serif;
-  color: red;
+
 }
 p {
   font-family: 'Oswald', sans-serif;
   color: inherit;
 }
 hr {
-  border: dotted blue 6px;
+  border: dotted #0f4c75 6px;
   border-bottom: none;
   width: 4%;
   margin: 100px auto;
@@ -34,16 +40,47 @@ hr {
 
 .top-container {
   position: relative;
-  padding-top: 50px;
+  padding-top: 100px;
+}
+.books {
+  position: relative;
+  right: 500px;
+  bottom: 20px;
+}
+.mag-books {
+  position: relative;
+  left: 500px;
+  bottom: 20px;
 }
 
 .middle-container {
  position: relative;
  padding-top: 25px;
 }
-
+.interests {
+  width: 30%;
+  margin: auto;
+}
+.collaborate {
+  width: 30%;
+  margin: auto;
+}
 .bottom-container {
-
+}
+.btn {
+	box-shadow:inset 0px 0px 15px 3px #23395e;
+	background:linear-gradient(to bottom, #5d91e3 5%, #415989 100%);
+	background-color:#5d91e3;
+	border-radius:17px;
+	border:1px solid #0a2957;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:15px;
+	padding:6px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
 }
 
 .intro {
@@ -55,9 +92,19 @@ hr {
   }
 
   .ukjack-img {
-    width: 18%;
+    width: 15%;
     float: none;
     margin: 15px;
+  }
+  .hiv-img {
+    width: 18%;
+    margin-bottom: 100px;
+    padding-left: 20px;
+  }
+  .apple-img {
+    width: 18%;
+    margin-bottom: 80px;
+    padding-right: 20px;
 
   }
   .thought-img {
@@ -66,22 +113,38 @@ hr {
     margin: 15px;
   }
   .waterpolo-1-img {
-    width: 25%;
+    width: 20%;
     padding-right: 10px;
   }
   .waterpolo-2-img {
-    width: 27%;
+    width: 17%;
     padding-right: 10px;
+}
+.waterpolo-3-img {
+  width: 18.25%;
+  padding-right: 10px;
+}
+.waterpolo-4-img {
+  width: 17%;
+  padding-right: 10px;
+}
+.copyright {
+  font-size: 8px;
+}
+a{
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
 }
 
 a:link {
-  color: gold;
+  color: #0f4c75;
 }
 
 a:visited {
-  color: white;
+  color: #3282b8;
 }
 
 a:hover {
-  color: red;
+  color: #7e0cf5;
 }
